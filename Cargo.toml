@@ -1,0 +1,12 @@
+[package]
+name = "monado-sys"
+version = "0.0.1"
+edition = "2021"
+rust-version = "1.70"
+authors = ["alvr-org", "Monado"]
+license = "MIT"
+
+[build-dependencies]
+cmake = "0.1"
+bindgen = "0.69"
+walkdir = "2"
