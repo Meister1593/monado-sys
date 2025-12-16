@@ -3,8 +3,8 @@ name = "monado-sys"
 version = "0.0.1"
 edition = "2021"
 rust-version = "1.70"
-authors = ["alvr-org", "Monado"]
-license = "MIT"
+authors = ["alvr-org", "Monado", "Meister1593"]
+license = "MIT OR BSL-1.0"
 
 [build-dependencies]
 cmake = "0.1"
